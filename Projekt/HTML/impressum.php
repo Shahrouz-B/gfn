@@ -32,7 +32,7 @@ include('../PHP/header.php');
             <h3>Persönlich haftende geschäftsführende und vertretungsberechtigte Gesellschafterin:</h3>
             <p>Pomodro Copysho GmbH, Sitz: Stuttgart; Stiftungsverzeichnis der rechtsfähigen Stiftungen des bürgerlichen Rechts des Amtes für regionale Landesentwicklung Weser-Ems Nummer 15(034).</p>
                 
-                <h3>Programieren von:</h3>
+                <h3>Programmieren von:</h3>
                 <p>Shahrouz Bagheri Vanani, Arpad Szegedi, Marianna De Sa E Susa, Maximilian Heeß, Marc Rivoir </p>
                 
                                 
