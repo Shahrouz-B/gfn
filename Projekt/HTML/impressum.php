@@ -32,12 +32,10 @@ include('../PHP/header.php');
             <h3>Persönlich haftende geschäftsführende und vertretungsberechtigte Gesellschafterin:</h3>
             <p>Pomodro Copysho GmbH, Sitz: Stuttgart; Stiftungsverzeichnis der rechtsfähigen Stiftungen des bürgerlichen Rechts des Amtes für regionale Landesentwicklung Weser-Ems Nummer 15(034).</p>
                 
-                <h3>Aufsichtsrat:</h3>
-                <p>Marc Rivoir (Vorsitzender)</p>
+                <h3>Programieren von:</h3>
+                <p>Shahrouz Bagheri Vanani, Arpad Szegedi, Marianna De Sa E Susa, Maximilian Heeß, Marc Rivoir </p>
                 
-                <h3>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:</h3>
-                <p>Arpad Szegedi</p>
-                
+                                
                 <h3>Haftungshinweis:</h3>
                 <p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
                 
